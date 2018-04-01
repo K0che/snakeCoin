@@ -18,8 +18,8 @@ public class Blockchain {
 		blockToAdd    = previousBlock.nextBlock(previousBlock);
 		blockChain.add(blockToAdd);
 		previousBlock = blockToAdd;
-		System.out.println(blockToAdd.data);
-		System.out.println(blockToAdd.hash);
+		System.out.println("Block "+blockToAdd.index+" has been added to the blockchain!");
+		System.out.println("Hash: "+blockToAdd.hash+"\n");
 		}
 	
 	}
