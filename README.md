@@ -10,44 +10,63 @@ This is a port of the code from that article to JAVA.
 The output will be similar to
 
 ```
-Hey i'm block 1
-RsAX3kD4rRwvrties8K1LsyhM2I1MgaOxKe3ElOeMY8=
-Hey i'm block 2
-wWrLXcUPWWIrOA+Evs0pel6J/Cif5lldEo1r9fELymI=
-Hey i'm block 3
-Y/PsjQ3MpFu7+GBBAxpql7gkqAwQ0tECzKNOdaZmC/M=
-Hey i'm block 4
-AjB0uLWQJMUIACnuAQc+sk3zmBe1Ni5obdifRWZI2oE=
-Hey i'm block 5
-AAxrRjnnqyK8umWXUz9w3XRKapgKAscezIr6cu4tPv0=
-Hey i'm block 6
-Ji9UKjbcKOLvaU+VUKDekituV+SwSIfLpbDVVqdV0YY=
-Hey i'm block 7
-ZsPtGXxhBmJC9HuAi3VnwpYCs25hkzNhxBztT70wxqU=
-Hey i'm block 8
-LOAM0PufdnM0p+Dnnd1VZ7cr7id+R2IrqW1NsyGlLP4=
-Hey i'm block 9
-2DH0VBllbc/EjAeznDZqTpBsgT9QN44Mogy/fDrQGkw=
-Hey i'm block 10
-B47jN7rReO4Kb78NMG0hb0j61IMcHgO2oQ8FZrWyQLo=
-Hey i'm block 11
-Wle7iQUH5NyFk2QC0U3cwhEXThn2fFPUuZhSRJfR7EY=
-Hey i'm block 12
-wBDXt15uSGm9zeirMe5xlmmKy65+xI5Xg0rnv6YP1vM=
-Hey i'm block 13
-XlYUyzB8UvT5nB7a3EKGPjfAgay9VqTOOACS98QLDfw=
-Hey i'm block 14
-hdovbLxsJK/h+4ym9LoliqPXDYl5+EmZy1us+Pof4XQ=
-Hey i'm block 15
-kx0VzT0lIGp/upuXv63MycfuVfDMcpsv7IN+1KQgfdE=
-Hey i'm block 16
-L4p/AkkzmQXkv4+2Wge79heZLJSZlarueqw7dLvK4FQ=
-Hey i'm block 17
-8hsWPFjAVGtzDgTnMM56bPL9UmecG2g7lr4xeOjmRh0=
-Hey i'm block 18
-pGb2kp9Vp1WsiYA+305But0Q0Lqg6Y1uYXZle5uWLZ0=
-Hey i'm block 19
-ZsRdJIgzfy0lO/Dyuq0pA9VOSTXCOONDx7Rv1TRIFSk=
-Hey i'm block 20
-7OKdroHcOcTTQ+PagMCxqJOOCoSjY/k0xZou1GMTSok=
+Block 1 has been added to the blockchain!
+Hash: kK0kab7JBVl1mWsVG1ZfHSO8bu7clXyQoQCjJSo7DU4=
+
+Block 2 has been added to the blockchain!
+Hash: Fk9qx5hRIfcDxt7iGJ6GRVIK3rnrRQFQ3bmoNib6vdo=
+
+Block 3 has been added to the blockchain!
+Hash: WgYQhY7Rk3Cc5StpZRv8+et6GgsiBNqtDd6GILlDL/Y=
+
+Block 4 has been added to the blockchain!
+Hash: NPGh1nqdI/HCweImBSO7cXOFYc30WJgwMiiZxS04qVs=
+
+Block 5 has been added to the blockchain!
+Hash: nV4pkOv2Upa5XsbYN+MOxhTH7xM8+spF6mPw83pXvxM=
+
+Block 6 has been added to the blockchain!
+Hash: DOI603jhABT0dW/Hs48WrRcIQPl7m9lXyaCGfzN0xbU=
+
+Block 7 has been added to the blockchain!
+Hash: JsSKMwmM1rUShuTUTN72X8W+h1EjEH5PC9nxdAT5WOs=
+
+Block 8 has been added to the blockchain!
+Hash: SiFw/CE7lrnO1lKmpYyLgdFiuWpGtnkVsWzpSl1s9Do=
+
+Block 9 has been added to the blockchain!
+Hash: 8zy9sESBrDHHjO+Jj8fRdQ7aBOQglFzHjoIyQhrXobs=
+
+Block 10 has been added to the blockchain!
+Hash: zTRPwo8dKo8FXtTaMcHKB35iWTmyHEMxufCFCxGpm68=
+
+Block 11 has been added to the blockchain!
+Hash: dWfbhLyGyFyMsLTqNJAzAqCgCaO+YorjPLYvaa0ml08=
+
+Block 12 has been added to the blockchain!
+Hash: CTpAAMLWXEQBS/urQrDXTndxun23YZHURtbSBqkrMtY=
+
+Block 13 has been added to the blockchain!
+Hash: uqxX2caNi6IWapEL4xXqqzSELtbJhhPxdhLLBFeX7WA=
+
+Block 14 has been added to the blockchain!
+Hash: 8CG2TdmD7K3Nr4TjYEFQfUBBgLJ+hh+qBF33PoHb5gM=
+
+Block 15 has been added to the blockchain!
+Hash: xbkXwiuPkBrN+PVIxVy1MJ1h1oDtPy3SlEQD2ntGV3o=
+
+Block 16 has been added to the blockchain!
+Hash: vSJKfXtnjDKaP4qfjmC+abwcfJ0pnBHTN5LRBCPMpkA=
+
+Block 17 has been added to the blockchain!
+Hash: RrECt37ltH7We3G7HKpmNsBfsgARrkYXEDjzpjLAV9E=
+
+Block 18 has been added to the blockchain!
+Hash: JFsKgupPGXeSfsHf0kqC8cCRtn8HjVKwBQPow+7igrQ=
+
+Block 19 has been added to the blockchain!
+Hash: AYAfjMGvm1j1/MHw2SxFWf8ac4uCxp512ZGeN4ZqaPU=
+
+Block 20 has been added to the blockchain!
+Hash: lTzQYHjOOvbgjtsPd84XvC5wkqaRwVDmGS4KfuNNxr0=
 
