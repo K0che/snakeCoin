@@ -20,7 +20,7 @@ public class Block {
 		this.previous_hash=previous_hash;
 		this.hash=createHash(this.index,this.timestamp, this.data, this.previous_hash);	
 	}
-
+	
 public Block() throws UnsupportedEncodingException, NoSuchAlgorithmException {
 	
 	createGenesisBlock();
@@ -37,9 +37,9 @@ public  Block nextBlock(Block last_block) throws UnsupportedEncodingException, N
 	Block next = new Block(last_block.index+1, new Date().toString(), ("Hey i'm block "+(last_block.index+1)), last_block.hash);
 	  return next;
 }
+
 public  Block createGenesisBlock() throws UnsupportedEncodingException, NoSuchAlgorithmException {
 	 Block  genesis = new Block(0,  new Date().toString(),"this is block 0","0");
-	 System.out.println(new Date().toString());
 	 return genesis;
 }
 }
